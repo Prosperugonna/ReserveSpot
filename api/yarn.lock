@@ -1851,6 +1851,11 @@ encodeurl@~1.0.2:
   resolved "https://registry.yarnpkg.com/encodeurl/-/encodeurl-1.0.2.tgz#ad3ff4c86ec2d029322f5a02c3a9a606c95b3f59"
   integrity sha512-TPJXq8JqFaVYm2CWmPvnP2Iyo4ZSM7/QKcSmuMLDObfpH5fi7RUGmd/rTDf+rut/saiDiQEeVTNgAmJEdAOx0w==
 
+epress@^0.0.1-security:
+  version "0.0.1-security"
+  resolved "https://registry.yarnpkg.com/epress/-/epress-0.0.1-security.tgz#8a44c252fa19b1d4c9704a00792639b0ae1e97bd"
+  integrity sha512-/REk6cExLsDmL7S4dXf6SHaZl4e+9ZzoGAH6KEETT9lzZyBr4PnFLvHFc0WGb+vXzIOqySHSigzP+iSD+IDUYw==
+
 escape-html@~1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/escape-html/-/escape-html-1.0.3.tgz#0258eae4d3d0c0974de1c169188ef0051d1d1988"
